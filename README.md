@@ -2,7 +2,7 @@ Hi, I'm Oleh Pokhylo, a Senior Python Developer from Ukraine.
 Have 5+ years of xperience in Scripting, Web Scraping and API integration.
 I am always 💪confident to understand perfectly every aspect of these platforms and popular plugins/apps.
 
-Always ready for you. Please contact me!
+Are you ready? I am ready.<br>Please contact me!
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
