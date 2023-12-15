@@ -41,6 +41,7 @@ What can I do: <br>
 ✅ CSS<br>
 ✅ PostgreSQL<br>
 ✅ MySQL<br>
+✅ Django<br>
 ✅ Scripting<br>
 ✅ Web Scraping<br>
 ✅ Chatbot<br>
