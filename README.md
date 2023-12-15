@@ -15,7 +15,7 @@ Are you ready? I am ready!<br>Please contact me!
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-byoxw&psig=AOvVaw07YX_gTCi25tzmBcGSfLi9&ust=1702681193047000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMivqtvAj4MDFQAAAAAdAAAAABAE"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/2560px-Qt_small.svg.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/perl-programming-language-logo-png-transparent.png"></code>
 <code><img height="20" src="https://plugins.jetbrains.com/files/13691/387441/icon/pluginIcon.png"></code>
